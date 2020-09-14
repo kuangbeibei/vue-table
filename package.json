@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "stylus": "^0.54.8",
+    "stylus-loader": "^3.0.2",
+    "webpack": "^4.44.1"
+  }
+}
