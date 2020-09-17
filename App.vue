@@ -1,5 +1,6 @@
 <template>
     <div>
+        {{selectedItems}}
         <kk-table 
             :columns="columns1" 
             :data="data1"
